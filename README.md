@@ -1,5 +1,7 @@
 # Welcome to my GitHub Profile! 👋
 
+![giphy](https://github.com/user-attachments/assets/576ea23e-2232-4521-94a5-40ec1179136b)
+
 ## About Me
 
 I’m **B1gN0Se**, a passionate hacker and AppSec professional. My journey into the world of hacking began at the age of 13, fueled by an insatiable curiosity and a love for exploring the boundaries of technology. Over the years, this curiosity has evolved into a deep-seated expertise in application security.
@@ -13,7 +15,7 @@ I currently work as an Application Security Engineer, where I leverage my skills
 - **Tools & Technologies**: Burp Suite, OWASP ZAP, Metasploit, Nmap
 - **Operating Systems**: Linux, Windows, macOS
 
-## Stats & Badges
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1gn0se&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical) 
 
