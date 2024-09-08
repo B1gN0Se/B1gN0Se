@@ -24,8 +24,3 @@ I currently work as an Application Security Engineer, where I leverage my skills
 ## Hacking is Art
 
 > “Hacking is not just about exploiting vulnerabilities; it’s an art form, a way of thinking that requires creativity, perseverance, and an unyielding curiosity. It’s a journey that challenges you to push the limits of technology and discover new horizons.” 
-
-
----
-
-Feel free to explore my repositories and reach out if you have any questions or just want to chat about security!
