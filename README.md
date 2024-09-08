@@ -1,16 +1,29 @@
-## Hi there 👋
+# Welcome to my GitHub Profile! 👋
 
-<!--
-**B1gN0Se/B1gN0Se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I’m **B1gN0Se**, a passionate hacker and AppSec professional. My journey into the world of hacking began at the age of 13, fueled by an insatiable curiosity and a love for exploring the boundaries of technology. Over the years, this curiosity has evolved into a deep-seated expertise in application security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work as an Application Security Engineer, where I leverage my skills to protect and secure applications. My work involves identifying vulnerabilities, implementing security measures, and staying ahead of emerging threats to ensure robust defense mechanisms.
+
+## Skills & Expertise
+
+- **Application Security**: Penetration Testing, Vulnerability Assessment, Secure Code Review
+- **Programming Languages**: Python, JavaScript, C++
+- **Tools & Technologies**: Burp Suite, OWASP ZAP, Metasploit, Nmap
+- **Operating Systems**: Linux, Windows, macOS
+
+## Stats & Badges
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1gn0se&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1gn0se&layout=compact&theme=radical)
+
+## Hacking is Art
+
+> “Hacking is not just about exploiting vulnerabilities; it’s an art form, a way of thinking that requires creativity, perseverance, and an unyielding curiosity. It’s a journey that challenges you to push the limits of technology and discover new horizons.” 
+
+
+---
+
+Feel free to explore my repositories and reach out if you have any questions or just want to chat about security!
