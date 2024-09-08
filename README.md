@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 👋
 
-![giphy](https://github.com/user-attachments/assets/576ea23e-2232-4521-94a5-40ec1179136b)
+<img src="https://github.com/user-attachments/assets/576ea23e-2232-4521-94a5-40ec1179136b" width="1000" />
 
 ## About Me
 
