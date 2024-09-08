@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile! 👋
+# Hey there! 👋
 
 <img src="https://github.com/user-attachments/assets/576ea23e-2232-4521-94a5-40ec1179136b" width="1000" />
 
